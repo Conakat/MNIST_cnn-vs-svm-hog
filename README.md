@@ -1,5 +1,5 @@
 # MNIST_cnn-vs-svm-hog
-Comparative study of CNN and SVM (HOG features) for handwritten digit classification on the MNIST dataset using MATLAB
+Comparative study of CNN and SVM (HOG features) for handwritten digit classification on the MNIST dataset using MATLAB.
 
 This repository presents a comparative study of different machine learning
 and deep learning approaches for handwritten digit recognition using the
